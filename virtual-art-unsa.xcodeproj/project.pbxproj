@@ -11,6 +11,12 @@
 		18BDCBBC2CE4AC3F0070A11C /* PinturasViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BDCBBB2CE4AC3F0070A11C /* PinturasViewModel.swift */; };
 		18BDCBBF2CE4AFAC0070A11C /* WorkCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BDCBBE2CE4AFAC0070A11C /* WorkCard.swift */; };
 		18BDCBC12CE4B92B0070A11C /* WorkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BDCBC02CE4B92B0070A11C /* WorkDetailView.swift */; };
+<<<<<<< HEAD
+=======
+		18BFF2242CEF124D0039719D /* OldStandardTT-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18BFF2212CEF0D770039719D /* OldStandardTT-Italic.ttf */; };
+		18BFF2252CEF12550039719D /* OldStandardTT-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18BFF2222CEF0D7A0039719D /* OldStandardTT-Regular.ttf */; };
+		18BFF2282CEF13BD0039719D /* OldStandardTT-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18BFF2272CEF13BD0039719D /* OldStandardTT-Bold.ttf */; };
+>>>>>>> 9bd56fa (Initial Commit)
 		18D3AED22CE40AFB00B9A4C7 /* virtual_art_unsaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D3AED12CE40AFB00B9A4C7 /* virtual_art_unsaApp.swift */; };
 		18D3AED42CE40AFB00B9A4C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D3AED32CE40AFB00B9A4C7 /* ContentView.swift */; };
 		18D3AED62CE40AFC00B9A4C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D3AED52CE40AFC00B9A4C7 /* Assets.xcassets */; };
@@ -34,6 +40,13 @@
 		18BDCBBB2CE4AC3F0070A11C /* PinturasViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinturasViewModel.swift; sourceTree = "<group>"; };
 		18BDCBBE2CE4AFAC0070A11C /* WorkCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkCard.swift; sourceTree = "<group>"; };
 		18BDCBC02CE4B92B0070A11C /* WorkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkDetailView.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		18BFF2212CEF0D770039719D /* OldStandardTT-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OldStandardTT-Italic.ttf"; sourceTree = "<group>"; };
+		18BFF2222CEF0D7A0039719D /* OldStandardTT-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OldStandardTT-Regular.ttf"; sourceTree = "<group>"; };
+		18BFF2232CEF0E190039719D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		18BFF2272CEF13BD0039719D /* OldStandardTT-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OldStandardTT-Bold.ttf"; sourceTree = "<group>"; };
+>>>>>>> 9bd56fa (Initial Commit)
 		18D3AECE2CE40AFB00B9A4C7 /* virtual-art-unsa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "virtual-art-unsa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D3AED12CE40AFB00B9A4C7 /* virtual_art_unsaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = virtual_art_unsaApp.swift; sourceTree = "<group>"; };
 		18D3AED32CE40AFB00B9A4C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,6 +93,19 @@
 			path = Elements;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
+=======
+		18BFF21E2CEF0D610039719D /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				18BFF2272CEF13BD0039719D /* OldStandardTT-Bold.ttf */,
+				18BFF2212CEF0D770039719D /* OldStandardTT-Italic.ttf */,
+				18BFF2222CEF0D7A0039719D /* OldStandardTT-Regular.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+>>>>>>> 9bd56fa (Initial Commit)
 		18D3AEC52CE40AFB00B9A4C7 = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +125,11 @@
 		18D3AED02CE40AFB00B9A4C7 /* virtual-art-unsa */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
+=======
+				18BFF2232CEF0E190039719D /* Info.plist */,
+				18BFF21E2CEF0D610039719D /* fonts */,
+>>>>>>> 9bd56fa (Initial Commit)
 				18FB88E92CE4814F00632A18 /* API */,
 				18FB88E82CE4814500632A18 /* Model */,
 				18FB88E62CE480BC00632A18 /* ModelView */,
@@ -229,6 +260,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
+=======
+				18BFF2282CEF13BD0039719D /* OldStandardTT-Bold.ttf in Resources */,
+				18BFF2252CEF12550039719D /* OldStandardTT-Regular.ttf in Resources */,
+				18BFF2242CEF124D0039719D /* OldStandardTT-Italic.ttf in Resources */,
+>>>>>>> 9bd56fa (Initial Commit)
 				18D3AED92CE40AFC00B9A4C7 /* Preview Assets.xcassets in Resources */,
 				18D3AED62CE40AFC00B9A4C7 /* Assets.xcassets in Resources */,
 			);
@@ -394,6 +431,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"virtual-art-unsa/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+<<<<<<< HEAD
+=======
+				INFOPLIST_FILE = "virtual-art-unsa/Info.plist";
+>>>>>>> 9bd56fa (Initial Commit)
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -423,6 +464,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"virtual-art-unsa/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+<<<<<<< HEAD
+=======
+				INFOPLIST_FILE = "virtual-art-unsa/Info.plist";
+>>>>>>> 9bd56fa (Initial Commit)
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

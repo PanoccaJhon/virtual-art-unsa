@@ -15,4 +15,8 @@ struct virtual_art_unsaApp: App {
             SplashView()
         }
     }
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 9bd56fa (Initial Commit)
 }
