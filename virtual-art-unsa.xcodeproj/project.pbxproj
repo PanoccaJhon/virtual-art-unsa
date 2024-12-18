@@ -12,6 +12,10 @@
 		185AF5AD2D12919200164D43 /* PagesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AF5AC2D12919200164D43 /* PagesModel.swift */; };
 		185AF5AF2D129E6D00164D43 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AF5AE2D129E6D00164D43 /* Color.swift */; };
 		185AF5B12D12A11C00164D43 /* HomeWorksCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AF5B02D12A11C00164D43 /* HomeWorksCard.swift */; };
+<<<<<<< HEAD
+=======
+		185AF5B52D12C0A900164D43 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AF5B42D12C0A900164D43 /* HomeViewModel.swift */; };
+>>>>>>> 58fa396 (Initial Commit)
 		18B663782D108C50000D2B76 /* TabModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B663772D108C50000D2B76 /* TabModel.swift */; };
 		18BDCBBA2CE4ABB10070A11C /* HttpModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BDCBB92CE4ABB10070A11C /* HttpModel.swift */; };
 		18BDCBBC2CE4AC3F0070A11C /* PinturasViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BDCBBB2CE4AC3F0070A11C /* PinturasViewModel.swift */; };
@@ -44,6 +48,10 @@
 		185AF5AC2D12919200164D43 /* PagesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagesModel.swift; sourceTree = "<group>"; };
 		185AF5AE2D129E6D00164D43 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		185AF5B02D12A11C00164D43 /* HomeWorksCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWorksCard.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		185AF5B42D12C0A900164D43 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+>>>>>>> 58fa396 (Initial Commit)
 		18B663772D108C50000D2B76 /* TabModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabModel.swift; sourceTree = "<group>"; };
 		18BDCBB92CE4ABB10070A11C /* HttpModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpModel.swift; sourceTree = "<group>"; };
 		18BDCBBB2CE4AC3F0070A11C /* PinturasViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinturasViewModel.swift; sourceTree = "<group>"; };
@@ -117,9 +125,15 @@
 		182339D22CF8AF51005E6B60 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				18BDCBBB2CE4AC3F0070A11C /* PinturasViewModel.swift */,
 				18FB88F02CE4856000632A18 /* LoginViewModel.swift */,
 				182339D52CF8B948005E6B60 /* RegisterViewModel.swift */,
+=======
+				185AF5B32D12C08A00164D43 /* Home */,
+				185AF5B22D12C07200164D43 /* Session */,
+				18BDCBBB2CE4AC3F0070A11C /* PinturasViewModel.swift */,
+>>>>>>> 58fa396 (Initial Commit)
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -142,6 +156,26 @@
 			path = Services;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
+=======
+		185AF5B22D12C07200164D43 /* Session */ = {
+			isa = PBXGroup;
+			children = (
+				182339D52CF8B948005E6B60 /* RegisterViewModel.swift */,
+				18FB88F02CE4856000632A18 /* LoginViewModel.swift */,
+			);
+			path = Session;
+			sourceTree = "<group>";
+		};
+		185AF5B32D12C08A00164D43 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				185AF5B42D12C0A900164D43 /* HomeViewModel.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+>>>>>>> 58fa396 (Initial Commit)
 		186528E22D12839F0094E95F /* Pages */ = {
 			isa = PBXGroup;
 			children = (
@@ -316,6 +350,10 @@
 				18BDCBBF2CE4AFAC0070A11C /* WorkCard.swift in Sources */,
 				18FB88F32CE49AB900632A18 /* RegisterView.swift in Sources */,
 				185AF5AF2D129E6D00164D43 /* Color.swift in Sources */,
+<<<<<<< HEAD
+=======
+				185AF5B52D12C0A900164D43 /* HomeViewModel.swift in Sources */,
+>>>>>>> 58fa396 (Initial Commit)
 				18FB88F92CE49E6000632A18 /* MapView.swift in Sources */,
 				18D3AED42CE40AFB00B9A4C7 /* ContentView.swift in Sources */,
 				18FB88F72CE49E4000632A18 /* PinturasView.swift in Sources */,

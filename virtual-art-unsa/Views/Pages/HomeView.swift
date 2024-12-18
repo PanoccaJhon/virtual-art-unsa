@@ -21,7 +21,14 @@ struct HomeView: View {
                     .foregroundColor(Color(hex: "686868"))
 
             }
+<<<<<<< HEAD
             
+=======
+            .padding(.bottom, 10)
+            VStack {
+                HomeWorksCard()
+            }
+>>>>>>> 58fa396 (Initial Commit)
             Spacer()
         }
         .padding()

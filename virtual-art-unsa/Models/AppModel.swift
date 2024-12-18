@@ -33,6 +33,14 @@ struct Work: Identifiable, Codable {
     }
 }
 
+<<<<<<< HEAD
+=======
+struct RandomWorkImage: Codable {
+    let image: String
+}
+
+
+>>>>>>> 58fa396 (Initial Commit)
 struct Artist: Identifiable, Codable {
     let id: Int
     let name: String

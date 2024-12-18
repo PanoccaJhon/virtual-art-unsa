@@ -15,3 +15,11 @@ struct WorkResponse: Decodable {
     let limit: Int
 }
 
+<<<<<<< HEAD
+=======
+struct RandomWorksResponse: Decodable {
+    let success: Bool
+    let data: [RandomWorkImage]
+
+}
+>>>>>>> 58fa396 (Initial Commit)

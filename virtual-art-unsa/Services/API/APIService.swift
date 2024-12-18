@@ -9,7 +9,11 @@ import Foundation
 class APIService {
     static let shared = APIService() // Singleton para reutilizar el servicio
     
+<<<<<<< HEAD
     static public let baseURL = "http://192.168.164.110:3000/api"
+=======
+    static public let baseURL = "http://danp-deploy-production.up.railway.app/api"
+>>>>>>> 58fa396 (Initial Commit)
     
     private init() {} // Evita la inicialización externa
     
