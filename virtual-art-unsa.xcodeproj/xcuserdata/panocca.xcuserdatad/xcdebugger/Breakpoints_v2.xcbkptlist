@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AB37BC99-217F-4782-9902-B5BB237475AC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1257DD41-F67E-4105-8B36-24B570E1D52B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "virtual-art-unsa/Services/API/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "APIService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1257DD41-F67E-4105-8B36-24B570E1D52B - 4bceac8777d3dabb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "virtual_art_unsa.APIService.getRequestWithParams&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, params: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "virtual-art-unsa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/panocca/Documents/virtual-art-unsa/virtual-art-unsa/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "686">
+               </Location>
+               <Location
+                  uuid = "1257DD41-F67E-4105-8B36-24B570E1D52B - cd6e903a65a63eea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for virtual_art_unsa.APIService.getRequestWithParams&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, params: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "virtual-art-unsa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/panocca/Documents/virtual-art-unsa/virtual-art-unsa/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "1257DD41-F67E-4105-8B36-24B570E1D52B - 44cd50c5082294fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "virtual_art_unsa.APIService.__allocating_init() -&gt; virtual_art_unsa.APIService"
+                  moduleName = "virtual-art-unsa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/panocca/Documents/virtual-art-unsa/virtual-art-unsa/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "1257DD41-F67E-4105-8B36-24B570E1D52B - 6891ada94589a31b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "virtual_art_unsa.APIService.() -&gt; virtual_art_unsa.APIService.init() -&gt; virtual_art_unsa.APIService"
+                  moduleName = "virtual-art-unsa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/panocca/Documents/virtual-art-unsa/virtual-art-unsa/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7240E227-C028-41A9-A316-52E0B2514107"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "virtual-art-unsa/ViewModels/PinturasViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchPaintings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
